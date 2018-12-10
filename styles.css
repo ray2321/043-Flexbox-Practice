@@ -1,0 +1,70 @@
+.votehalleberry {
+ display:flex; border : thick solid ; padding :25px; margin :10px;
+  justify-content:space-around; background-color:blue;
+}
+img.resize {
+  width:200px;
+  height:40px;
+}
+div.c {
+    text-align: right;
+}
+h2 {
+    color:silver;
+}
+
+P {
+    font-size:20px;
+}
+p {
+    color:brown;
+}
+.container {
+    display:flex;
+}
+p {
+    text-align:center;
+}
+.border {border-style: double;}
+.border {
+    background-color:lightblue;
+}
+    body {
+        background-color:gold;
+    }
+.bee {
+    width :20%; height:20%;
+}
+.container {
+    display:flex; justify-content:space-between;
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
